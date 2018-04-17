@@ -1,6 +1,9 @@
 ## Tickets we've looked at (to some varying degree)
 - Sorted by time looked at (Will consider sorting by ticket number)
-- Title of Tickets is WIP
+```diff
+-todo: add tickets from 4/17 minute file
+-todo: add title of tickets
+```
 
 
 |                  **Ticket Number**                  |        **Title of Ticket**        |
