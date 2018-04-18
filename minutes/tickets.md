@@ -24,7 +24,6 @@
 |[#29131](https://code.djangoproject.com/ticket/29131)|                                   |
 |[#28273](https://code.djangoproject.com/ticket/28273)|                                   |
 |[#28539](https://code.djangoproject.com/ticket/28539)|                                   |
-
 |4/17 Tickets|                                   |
 |[#29329](https://code.djangoproject.com/ticket/29329)|                                   |
 |[#29332](https://code.djangoproject.com/ticket/29332)|                                   |
