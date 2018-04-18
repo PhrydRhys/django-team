@@ -25,8 +25,17 @@
 |[#28273](https://code.djangoproject.com/ticket/28273)|                                   |
 |[#28539](https://code.djangoproject.com/ticket/28539)|                                   |
 
+|4/17 Tickets|                                   |
+|[#29329](https://code.djangoproject.com/ticket/29329)|                                   |
+|[#29332](https://code.djangoproject.com/ticket/29332)|                                   |
+|[#29281](https://code.djangoproject.com/ticket/29281)|                                   |
+|[#27946](https://code.djangoproject.com/ticket/27946)|                                   |
+|[#29249](https://code.djangoproject.com/ticket/29249)|                                   |
+|[#27946](https://code.djangoproject.com/ticket/27946)|                                   |
+|[#29120](https://code.djangoproject.com/ticket/29120)|                                   |
+
 Template for new table entries
-|[#XXXXX]()|                                   |
-|[#XXXXX]()|                                   |
-|[#XXXXX]()|                                   |
+|[#]()|                                   |
+|[#]()|                                   |
+|[#]()|                                   |
 
