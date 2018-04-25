@@ -4,6 +4,10 @@ The summary should contain the following items:
 
 - list of pull requests with a mention of its current status (accepted, rejected, still waiting, making changes, ...) and a list of group members who worked on that pull request
 
+|#|Pull Request #|Status|
+|-|--------------|------|
+|1|[PR #29274](https://github.com/django/django/pull/9875)|Accepted|
+
 - for each group member individually: a list of commits to the fork repository in the class organization (some of you have lots of them in different branches and finding them turned out to be challenging)
 
 All the lists should have clickable links. The file can be a markdown file saved somewhere in the repository that you have for your team.
