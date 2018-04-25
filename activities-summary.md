@@ -4,9 +4,9 @@ The summary should contain the following items:
 
 - list of pull requests with a mention of its current status (accepted, rejected, still waiting, making changes, ...) and a list of group members who worked on that pull request
 
-|#|Pull Request #|Status|
-|-|--------------|------|
-|1|[PR #29274](https://github.com/django/django/pull/9875)|Accepted|
+|#|Pull Request #|Status|Group Members|
+|-|--------------|------|-------------|
+|1|[PR #29274](https://github.com/django/django/pull/9875)|Accepted|Rohit, Jessica|
 
 - for each group member individually: a list of commits to the fork repository in the class organization (some of you have lots of them in different branches and finding them turned out to be challenging)
 
