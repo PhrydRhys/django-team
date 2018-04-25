@@ -32,6 +32,9 @@
 |[#29249](https://code.djangoproject.com/ticket/29249)|                                   |
 |[#27946](https://code.djangoproject.com/ticket/27946)|                                   |
 |[#29120](https://code.djangoproject.com/ticket/29120)|                                   |
+|Claimed tickets|                               |
+|[#29351](https://code.djangoproject.com/ticket/29351)|                                   |
+|[#29359](https://code.djangoproject.com/ticket/29359)|
 
 Template for new table entries
 |[#]()|                                   |
