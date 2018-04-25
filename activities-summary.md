@@ -2,6 +2,34 @@ The summary should contain the following items:
 
 - list of issues that you attempted/considered with a brief comment stating if you decided to work on it or not and how successful the work was
 
+|                  **Ticket Number**                  |        **Comment**                |
+|-----------------------------------------------------|-----------------------------------|
+|[#29233](https://code.djangoproject.com/ticket/29233)|We planned to take it, but the maintainer decided that it didn't need to be fixed and closed the ticket.|
+|[#28290](https://code.djangoproject.com/ticket/28290)|Decided not to work on it          |
+|[#29122](https://code.djangoproject.com/ticket/29122)|We took it, but the maintainer recommended us not to because it had a "maybe" status|
+|[#29258](https://code.djangoproject.com/ticket/29258)|We considered taking it, but the life cycle was very quick (was taken and completed within days)|
+|[#29148](https://code.djangoproject.com/ticket/29148)|We were considering it but realized that the PR was closed on GitHub just 2 hours ago and it hasn't been updated on Django's Ticket Tracker yet.|
+|[#28667](https://code.djangoproject.com/ticket/28667)|Decided not to take it             |
+|[#28581](https://code.djangoproject.com/ticket/28581)|                                   |
+|[#29279](https://code.djangoproject.com/ticket/29279)|                                   |
+|[#29261](https://code.djangoproject.com/ticket/29261)|                                   |
+|[#29131](https://code.djangoproject.com/ticket/29131)|                                   |
+|[#28273](https://code.djangoproject.com/ticket/28273)|                                   |
+|[#28539](https://code.djangoproject.com/ticket/28539)|                                   |
+|4/17 Tickets|                                   |
+|[#29329](https://code.djangoproject.com/ticket/29329)|                                   |
+|[#29332](https://code.djangoproject.com/ticket/29332)|                                   |
+|[#29281](https://code.djangoproject.com/ticket/29281)|                                   |
+|[#27946](https://code.djangoproject.com/ticket/27946)|                                   |
+|[#29249](https://code.djangoproject.com/ticket/29249)|                                   |
+|[#27946](https://code.djangoproject.com/ticket/27946)|                                   |
+|[#29120](https://code.djangoproject.com/ticket/29120)|                                   |
+|Claimed tickets|                               |
+|[#29274](https://code.djangoproject.com/ticket/29274)|                                   |
+|[#29351](https://code.djangoproject.com/ticket/29351)|                                   |
+|[#29359](https://code.djangoproject.com/ticket/29359)|
+
+
 - list of pull requests with a mention of its current status (accepted, rejected, still waiting, making changes, ...) and a list of group members who worked on that pull request
 
 |#|Pull Request #|Status|Group Members|
