@@ -20,7 +20,3 @@ The summary should contain the following items:
 3. Shiyang
 4. Kelly
 5. Kenneth
-
-
-It would be best, if I got the links to those files before your presentation. For the groups presenting tomorrow, you can send me these documents sometime before Thursday.
-
