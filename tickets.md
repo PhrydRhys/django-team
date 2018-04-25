@@ -18,7 +18,6 @@
 |[#29148](https://code.djangoproject.com/ticket/29148)|                                   |
 |[#28667](https://code.djangoproject.com/ticket/28667)|                                   |
 |[#28581](https://code.djangoproject.com/ticket/28581)|                                   |
-|[#29274](https://code.djangoproject.com/ticket/29274)|                                   |
 |[#29279](https://code.djangoproject.com/ticket/29279)|                                   |
 |[#29261](https://code.djangoproject.com/ticket/29261)|                                   |
 |[#29131](https://code.djangoproject.com/ticket/29131)|                                   |
@@ -33,6 +32,7 @@
 |[#27946](https://code.djangoproject.com/ticket/27946)|                                   |
 |[#29120](https://code.djangoproject.com/ticket/29120)|                                   |
 |Claimed tickets|                               |
+|[#29274](https://code.djangoproject.com/ticket/29274)|                                   |
 |[#29351](https://code.djangoproject.com/ticket/29351)|                                   |
 |[#29359](https://code.djangoproject.com/ticket/29359)|
 
