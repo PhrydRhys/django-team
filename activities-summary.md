@@ -37,7 +37,7 @@ The summary should contain the following items:
 |-|--------------|------|-------------|
 |1|Ticket [#29274](https://code.djangoproject.com/ticket/29274), PR [#9875](https://github.com/django/django/pull/9875)|Accepted|Everyone (But only Rohit and Jessica made commits)|
 |2|Ticket [#29351](https://code.djangoproject.com/ticket/29351), PR [#9907](https://github.com/django/django/pull/9907)|Pending|Kelly|
-|3|Ticket [#29369](https://code.djangoproject.com/ticket/29369), PR [#9908](https://github.com/django/django/pull/9908)|Pending|Kenneth|
+|3|Ticket [#29369](https://code.djangoproject.com/ticket/29369), PR [#9908](https://github.com/django/django/pull/9908)|Accepted|Kenneth|
 
 - for each group member individually: a list of commits to the fork repository in the class organization (some of you have lots of them in different branches and finding them turned out to be challenging)
 
