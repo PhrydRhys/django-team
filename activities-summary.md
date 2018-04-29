@@ -27,14 +27,17 @@ The summary should contain the following items:
 |Claimed tickets|                               |
 |[#29274](https://code.djangoproject.com/ticket/29274)|                                   |
 |[#29351](https://code.djangoproject.com/ticket/29351)|                                   |
-|[#29359](https://code.djangoproject.com/ticket/29359)|
+|[#29359](https://code.djangoproject.com/ticket/29359)|                                   |
+|[#29369](https://code.djangoproject.com/ticket/29369)|Ticket was created by Kenneth from the [mailing list discussion](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!topic/django-developers/-rrIRia5IuU)|
 
 
 - list of pull requests with a mention of its current status (accepted, rejected, still waiting, making changes, ...) and a list of group members who worked on that pull request
 
 |#|Pull Request #|Status|Group Members|
 |-|--------------|------|-------------|
-|1|[PR #29274](https://github.com/django/django/pull/9875)|Accepted|Everyone (But only Rohit and Jessica made commits)|
+|1|Ticket [#29274](https://code.djangoproject.com/ticket/29274), PR [#9875](https://github.com/django/django/pull/9875)|Accepted|Everyone (But only Rohit and Jessica made commits)|
+|2|Ticket [#29351](https://code.djangoproject.com/ticket/29351), PR [#9907](https://github.com/django/django/pull/9907)|Pending|Kelly|
+|3|Ticket [#29369](https://code.djangoproject.com/ticket/29369), PR [#9908](https://github.com/django/django/pull/9908)|Pending|Kenneth|
 
 - for each group member individually: a list of commits to the fork repository in the class organization (some of you have lots of them in different branches and finding them turned out to be challenging)
 
@@ -47,4 +50,7 @@ The summary should contain the following items:
 - [Updated Documentation for password list (part 2)](https://github.com/django/django/commit/afbe18cd23efe20ca63afd4f0dafeb34fb079c7d)
 3. Shiyang
 4. Kelly
+- [Documented that ModelAdmin.prepopulated_fields removes stop words](https://github.com/nyu-ossd-s18/django/commit/b1d990c195de04620683b5fc0e524bc3d9b5813a)
 5. Kenneth
+- [Added information of #django-dev IRC channel](https://github.com/nyu-ossd-s18/django/commit/8754e763c3cdeffa26cd081b93fdb86dc288058a)
+- [Added information of #django-dev IRC channel (part2)](https://github.com/nyu-ossd-s18/django/commit/4eb44ea943b7c2c239997f6ad1c229926ef1b267)
