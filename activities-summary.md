@@ -51,6 +51,7 @@ The summary should contain the following items:
 3. Shiyang
 4. Kelly
 - [Documented that ModelAdmin.prepopulated_fields removes stop words](https://github.com/nyu-ossd-s18/django/commit/b1d990c195de04620683b5fc0e524bc3d9b5813a)
+- [reworded how ModelAdmin.prepopulated_fields removes stop words](https://github.com/django/django/pull/9907/commits/e14b9a0e6dc93d74d3957709ec29102febabfe59)
 5. Kenneth
 - [Added information of #django-dev IRC channel](https://github.com/nyu-ossd-s18/django/commit/8754e763c3cdeffa26cd081b93fdb86dc288058a)
 - [Added information of #django-dev IRC channel (part2)](https://github.com/nyu-ossd-s18/django/commit/4eb44ea943b7c2c239997f6ad1c229926ef1b267)
