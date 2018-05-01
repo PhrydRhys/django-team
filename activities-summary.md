@@ -9,26 +9,25 @@ The summary should contain the following items:
 |[#29122](https://code.djangoproject.com/ticket/29122)|We took it, but the maintainer recommended us not to because it had a "maybe" status|
 |[#29258](https://code.djangoproject.com/ticket/29258)|We considered taking it, but the life cycle was very quick (was taken and completed within days)|
 |[#29148](https://code.djangoproject.com/ticket/29148)|We were considering it but realized that the PR was closed on GitHub just 2 hours ago and it hasn't been updated on Django's Ticket Tracker yet.|
-|[#28667](https://code.djangoproject.com/ticket/28667)|Decided not to take it             |
-|[#28581](https://code.djangoproject.com/ticket/28581)|                                   |
-|[#29279](https://code.djangoproject.com/ticket/29279)|                                   |
-|[#29261](https://code.djangoproject.com/ticket/29261)|                                   |
-|[#29131](https://code.djangoproject.com/ticket/29131)|                                   |
-|[#28273](https://code.djangoproject.com/ticket/28273)|                                   |
-|[#28539](https://code.djangoproject.com/ticket/28539)|                                   |
-|4/17 Tickets|                                   |
-|[#29329](https://code.djangoproject.com/ticket/29329)|                                   |
-|[#29332](https://code.djangoproject.com/ticket/29332)|                                   |
-|[#29281](https://code.djangoproject.com/ticket/29281)|                                   |
-|[#27946](https://code.djangoproject.com/ticket/27946)|                                   |
-|[#29249](https://code.djangoproject.com/ticket/29249)|                                   |
-|[#27946](https://code.djangoproject.com/ticket/27946)|                                   |
-|[#29120](https://code.djangoproject.com/ticket/29120)|                                   |
-|Claimed tickets|                               |
-|[#29274](https://code.djangoproject.com/ticket/29274)|                                   |
-|[#29351](https://code.djangoproject.com/ticket/29351)|                                   |
-|[#29359](https://code.djangoproject.com/ticket/29359)|                                   |
-|[#29369](https://code.djangoproject.com/ticket/29369)|Ticket was created by Kenneth from the [mailing list discussion](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!topic/django-developers/-rrIRia5IuU)|
+|[#28667](https://code.djangoproject.com/ticket/28667)|Decided not to take it|
+|[#28581](https://code.djangoproject.com/ticket/28581)|Has a patch that needed to be updated, we decided not to do it|
+|[#29261](https://code.djangoproject.com/ticket/29261)|Assigned already and has a patch that needs improvement, but user claimed that they were going to do it|
+|[#29131](https://code.djangoproject.com/ticket/29131)|Considered taking it but after looking into it, issue looks harder than it seemed in the beginning|
+|[#28273](https://code.djangoproject.com/ticket/28273)|The issue was too complicated|
+|[#28539](https://code.djangoproject.com/ticket/28539)|Decided not to take it|
+|[#29329](https://code.djangoproject.com/ticket/29329)|Decided not to work on it|
+|[#29332](https://code.djangoproject.com/ticket/29332)|Bug was closed as duplicate|
+|[#29281](https://code.djangoproject.com/ticket/29281)|We didn't know how to solve it|
+|[#27946](https://code.djangoproject.com/ticket/27946)|Considered it but decided not to take it|
+|[#29249](https://code.djangoproject.com/ticket/29249)|Wasn't sure how to improve the patch|
+|[#29120](https://code.djangoproject.com/ticket/29120)|Decided not to work on it|
+|[#29157](https://code.djangoproject.com/ticket/29157)|Decided that we're not qualified to do it|
+|[#29056](https://code.djangoproject.com/ticket/29056)|Decided not to work on it|
+|[#27925](https://code.djangoproject.com/ticket/27925)|It was for an outdated version of Django, so we decided not to do it|
+|[#29274](https://code.djangoproject.com/ticket/29274)|Claimed the issue, PR merged|
+|[#29351](https://code.djangoproject.com/ticket/29351)|Claimed the issue, PR pending approval|
+|[#29359](https://code.djangoproject.com/ticket/29359)|Claimed the issue, PR pending approval|
+|[#29369](https://code.djangoproject.com/ticket/29369)|Created the issue, PR merged ([mailing list discussion](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!topic/django-developers/-rrIRia5IuU))|
 
 
 - list of pull requests with a mention of its current status (accepted, rejected, still waiting, making changes, ...) and a list of group members who worked on that pull request
