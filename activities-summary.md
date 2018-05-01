@@ -26,7 +26,7 @@ The summary should contain the following items:
 |[#27925](https://code.djangoproject.com/ticket/27925)|It was for an outdated version of Django, so we decided not to do it|
 |[#29274](https://code.djangoproject.com/ticket/29274)|Claimed the issue, PR merged|
 |[#29351](https://code.djangoproject.com/ticket/29351)|Claimed the issue, PR pending approval|
-|[#29359](https://code.djangoproject.com/ticket/29359)|Claimed the issue, PR pending approval|
+|[#29359](https://code.djangoproject.com/ticket/29359)|Claimed the issue, PR rejected|
 |[#29369](https://code.djangoproject.com/ticket/29369)|Created the issue, PR merged ([mailing list discussion](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!topic/django-developers/-rrIRia5IuU))|
 
 
@@ -37,6 +37,7 @@ The summary should contain the following items:
 |1|Ticket [#29274](https://code.djangoproject.com/ticket/29274), PR [#9875](https://github.com/django/django/pull/9875)|Accepted|Everyone (But only Rohit and Jessica made commits)|
 |2|Ticket [#29351](https://code.djangoproject.com/ticket/29351), PR [#9907](https://github.com/django/django/pull/9907)|Pending|Kelly|
 |3|Ticket [#29369](https://code.djangoproject.com/ticket/29369), PR [#9908](https://github.com/django/django/pull/9908)|Accepted|Kenneth|
+|4|Ticket [#29359](https://code.djangoproject.com/ticket/29359), PR [#9912](https://github.com/django/django/pull/9912)|Rejected|Shiyang|
 
 - for each group member individually: a list of commits to the fork repository in the class organization (some of you have lots of them in different branches and finding them turned out to be challenging)
 
@@ -47,7 +48,8 @@ The summary should contain the following items:
 - [Deleted hex errors in password list](https://github.com/django/django/commit/3dfd731662325b803a910a25d5587e82191c2bd9)
 - [Updated Documentation for password list](https://github.com/django/django/commit/7c3e0cee0f9045d1e87bef7ced5b6b8b5af6555d)
 - [Updated Documentation for password list (part 2)](https://github.com/django/django/commit/afbe18cd23efe20ca63afd4f0dafeb34fb079c7d)
-3. Shiyang
+3. Shiyang	
+- [Updated middleware documentation with deprecated ExceptionMiddleware](https://github.com/nyu-ossd-s18/django/commit/c03c398181c4183843c1cda00603d698fd1562d5)
 4. Kelly
 - [Documented that ModelAdmin.prepopulated_fields removes stop words](https://github.com/nyu-ossd-s18/django/commit/b1d990c195de04620683b5fc0e524bc3d9b5813a)
 - [reworded how ModelAdmin.prepopulated_fields removes stop words](https://github.com/django/django/pull/9907/commits/e14b9a0e6dc93d74d3957709ec29102febabfe59)
